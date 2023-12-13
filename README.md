@@ -1,18 +1,16 @@
 #Giovanna Gabriele
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GiihGabi/b4463646f6539a63401d4ca511c234ce/raw/41c3d77d32e2f3881ad778dfca31256ef9c11931/gitcard.svg"/>
-<h1 align="left">Hey guys, I'm Giovanna Gabriele 💖</h1>
+<h1 align="left">Olá programadores, sejam bem vindos aqui💖</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GiihGabi&color=yellow" alt="Profile views" /> </p>
 
 
-- 🖥️  I’m currently studing ADS
+- 🖥️  Minhas faculdades(ainda cursando): Análise e Desenvolvimento de Sistemas / Ciência de Dados
 
-- 🤓 Intern
+- 🤓 Sou estagiária
 
-- 🔭 I’m currently working at Unimar
+- 🌱 Atualmente atuo como Full Stack Developer
 
-- 🌱 I’m currently learning ReactJS
-
-- 😄 Pronouns: English-Advance
+- 😄 Inglês avançado
 
 
 <br><br>
@@ -20,7 +18,11 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
