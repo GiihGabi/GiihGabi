@@ -6,7 +6,7 @@
 
 - 🖥️  Minhas faculdades(ainda cursando): Análise e Desenvolvimento de Sistemas / Ciência de Dados
 
-- 🤓 Sou estagiária
+- 🤓 Empresária
 
 - 🌱 Atualmente atuo como Full Stack Developer
 
