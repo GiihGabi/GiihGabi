@@ -1,14 +1,12 @@
 #Giovanna Gabriele
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GiihGabi/b4463646f6539a63401d4ca511c234ce/raw/41c3d77d32e2f3881ad778dfca31256ef9c11931/gitcard.svg"/>
-<h1 align="left">Olá programadores, sejam bem vindos aqui💖</h1>
+<h1 align="left">Olá programadores, sejam bem vindos 💖</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GiihGabi&color=yellow" alt="Profile views" /> </p>
 
 
-- 🖥️  Minhas faculdades(ainda cursando): Análise e Desenvolvimento de Sistemas / Ciência de Dados
+- 🖥️  Faculdades: Análise e Desenvolvimento de Sistemas(finalizada) / Ciência de Dados(ainda cursando)
 
-- 🤓 Empresária
-
-- 🌱 Atualmente atuo como Full Stack Developer
+- 🌱 Full Stack Developer
 
 - 😄 Inglês avançado
 
