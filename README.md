@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GiihGabi&color=yellow" alt="Profile views" /> </p>
 
 
-- 🖥️  Faculdades: Análise e Desenvolvimento de Sistemas(finalizada) / Ciência de Dados(ainda cursando)
+- 🖥️  Faculdades: Análise e Desenvolvimento de Sistemas (concluído) / Ciência de Dados(concluído)
+
+- 🎓Pós Graduação em Análise de Dados (Em andamento)
 
 - 🌱 Full Stack Developer
 
